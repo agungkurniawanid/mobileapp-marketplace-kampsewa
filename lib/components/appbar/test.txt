@@ -1,0 +1,15 @@
+Flutter adalah sebuah framework open-source yang dikembangkan oleh Google untuk membangun antarmuka pengguna (UI) yang modern, responsif, dan atraktif secara konsisten di berbagai platform seperti iOS, Android, web, dan desktop dari satu kode sumber. Flutter menggunakan bahasa pemrograman Dart yang dikembangkan oleh Google sendiri.
+
+Beberapa fitur utama Flutter meliputi:
+
+1. **Hot Reload**: Fitur ini memungkinkan pengembang untuk melihat perubahan yang dilakukan pada kode langsung di aplikasi yang sedang berjalan, tanpa perlu me-restart aplikasi. Hal ini mempercepat siklus pengembangan dan memungkinkan pengembang untuk menguji dan melihat perubahan secara cepat.
+
+2. **Widget**: Flutter menggunakan konsep "widget" sebagai blok bangunan dasar untuk membangun antarmuka pengguna. Widget adalah elemen-elemen UI seperti tombol, teks, gambar, dan layout yang dapat diatur dan disusun secara hierarkis untuk membuat UI yang kompleks.
+
+3. **Single Codebase**: Dengan menggunakan Flutter, pengembang dapat menulis satu kode sumber dan menggunakan untuk membangun aplikasi untuk berbagai platform seperti iOS, Android, web, dan desktop. Hal ini memungkinkan pengembang untuk mempercepat pengembangan dan memelihara aplikasi dengan lebih efisien.
+
+4. **High Performance**: Flutter menggunakan rendering engine sendiri yang disebut "Skia" untuk menggambar antarmuka pengguna. Engine ini membantu dalam menciptakan antarmuka pengguna yang responsif dan halus, dengan kinerja yang tinggi.
+
+5. **Rich Set of Widgets**: Flutter menyediakan berbagai widget yang telah diatur dengan baik untuk membangun UI yang beragam, seperti widget untuk tata letak, input pengguna, animasi, dan efek visual lainnya.
+
+Flutter telah menjadi pilihan populer bagi para pengembang dalam membangun aplikasi mobile dan juga telah mulai digunakan untuk pengembangan aplikasi web dan desktop. Keberhasilan Flutter dapat dilihat dari komunitas yang berkembang pesat dan adopsi yang luas di industri pengembangan perangkat lunak.
